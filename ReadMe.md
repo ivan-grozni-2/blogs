@@ -1,4 +1,4 @@
-# Simple Blog Page 📝
+# Simple Blog Page 
 
 A clean, responsive static blog layout built with HTML and CSS.
 
